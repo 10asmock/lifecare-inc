@@ -19,5 +19,7 @@
                       <br>Allergies + field
                       <br>Current Medications + field
                       <br>Review of Systems
+                      
        <br><br>- Objective: Height, Weight, BMI, Systolic, Diastolic, Temp, Pulse
                         <br>Objective notes
+       <br><br>- Assessment & Plan: 
