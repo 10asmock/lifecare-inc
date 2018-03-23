@@ -8,4 +8,6 @@
 - <b>Stage IV</b>: CRUD functionality (use url_fors, redirects, and routes respond to GET & POST requests)
 - <b>Stage V</b>: Styling (style and align using HTML and CSS files)
 
+## Notes:
 
+- Patient List will 
