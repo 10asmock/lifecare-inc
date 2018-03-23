@@ -13,4 +13,11 @@
 - Patient List will consist of Patient ID, Last Name, First Name, MI, DOB, Facility, Type (P or Patient, S or Subject), Status (Active or Deceased), Edit Dem. (Demographics), Delete.
 
 - Default SOAP note/Progress note: 
-        - Subjective: Chief Complaint, Location, Quality, Severity, Duration, Timing, Provider Findings
+        - Subjective: Chief Complaint, Location, Quality, Severity, Duration, Timing, Onset Date
+                      Psyche History, Provider Psychiatric Evaluation
+                      Medical History, Comments (Htn, dm, CA, Cardiovascular), Surgical History, Gynecological History, Family History, Surgical History, Provider Medical Evaluation
+                      Allergies + field
+                      Current Medications + field
+                      Review of Systems
+       - Objective: Height, Weight, BMI, Systolic, Diastolic, Temp, Pulse
+                      Objective notes
