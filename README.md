@@ -19,7 +19,6 @@
                       <br>Allergies + field
                       <br>Current Medications + field
                       <br>Review of Systems
-                      
        <br><br>- Objective: Height, Weight, BMI, Systolic, Diastolic, Temp, Pulse
                         <br>Objective notes
-       <br><br>- Assessment & Plan: 
+       <br><br>- Assessment & Plan: ICD-10 codes, Patient Status (New or Established. If research, Active or Deceased), Prescribed Medications, Immunization, Administered Medications, Data Analysis, Risk Assessment, Patient Instructions
