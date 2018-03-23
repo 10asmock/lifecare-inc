@@ -10,4 +10,4 @@
 
 ## Notes:
 
-- Patient List will 
+- Patient List will consist of Patient ID, Last Name, First Name, MI, DOB, Facility, Type (P or Patient, S or Subject), Status (Active or Deceased), Edit Dem. (Demographics), Delete
