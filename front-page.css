@@ -1,0 +1,118 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.lc-logo {
+  text-align: left;
+  margin-left: 40px;
+}
+
+ul {
+    list-style-type: none;
+    width: 100%;
+    display: block;
+    height: 75px;
+    line-height: 76px;
+    background-color: #f8fafc;
+    border: 0;
+ }
+
+ li {
+    float: left;
+    font-size: 19px;
+    color: #0d1c3d;
+    margin-left: 25px;
+    font-family: 'Lato', sans-serif;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+.header-front-page {
+  text-align: center;
+}
+
+.provider-newsletter-header {
+  color: #32CD32;
+  font-size: 3.75rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.newsletter-header {
+  color: #4c4cff;
+  text-align: center;
+  font-size: 3.75rem;
+  font-family: 'Lato', sans-serif;
+  margin: 0px;
+}
+
+.med-logo {
+  display: inline-block;
+}
+
+.green-line {
+  margin-left: 75px;
+  margin-bottom:-20px;
+  background-color:	#32CD32;
+}
+
+.blue-line {
+  float: right;
+  background-color: #0000CD;
+  margin-top: 0;
+  margin-right: 74px;
+}
+
+
+.doc-helping-patient {
+  display: block;
+  margin: auto;
+  border: 1px;
+  padding: 10px;
+}
+
+.article-title {
+  margin-left: 80px;
+}
+
+.hero-image-headline {
+  font-size: 3.75rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+}
+
+.hero-headline-compassion {
+  font-size: 3.75rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+  color: #ff4c4c;
+}
+
+.sub-heading {
+  font-weight: 100;
+  font-family: 'Montserrat', sans-serif;
+  color: #0d1c3d;
+  letter-spacing: -.3px;
+  text-align: left;
+  font-size: 28px;
+  line-height: 45px;
+  letter-spacing: -.45px;
+  margin-bottom: 40px;
+  margin-top: -10px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
